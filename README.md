@@ -1,16 +1,16 @@
-### Hi there 👋
-
-<!--
-**pcabezal/pcabezal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my github!
+<br>
+Stay awhile, and listen...
+<p>
+I'm currently working on a death location tracker API for randomly generated levels in the upcoming indie game Dizzy Ballers!
+<p>
+Here are some of my favorite projects:
+<br>
+<a href="https://pcabezal.github.io/nasaPOD/">NASA Astronomy Photos of the Day</a>: Slideshow which cycles through random photos of the day from the official NASA API.
+<br>
+<a href="https://pcabezal.github.io/etch-a-sketch/">Sketchy Etcher</a>: In browser Etch A Sketch, complete with rainbow mode!
+<br>
+<a href="https://pcabezal.github.io/TOPcalculator/">Calculator</a>: Utilizing this never before seen device you can use your computer to perform basic arithmetic operations!
+<p>
+  
+You can reach me on twitter @paulcabezal or find me on linked in with that same trusty name!
