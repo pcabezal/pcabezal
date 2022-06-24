@@ -5,7 +5,8 @@ Stay awhile, and listen...</h1>
   
 <h3 align="center">I'm currently working on a player death location tracker API for randomly generated levels in the upcoming indie video game Dizzy Ballers!</h3>
 <p>
-<h4>Here are some of my favorite projects:</h4>
+<p>
+<strong>Here are some of my favorite projects:</strong>
 <br>
 <strong><a href="https://pcabezal.github.io/nasaPOD/">NASA Astronomy Photos of the Day</a></strong>: Slideshow which cycles through random photos of the day from the official NASA API.
 <br>
