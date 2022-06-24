@@ -3,7 +3,7 @@
 Stay awhile, and listen...</h1>
 <p>
   
-<h4>I'm currently working on a death location tracker API for randomly generated levels in the upcoming indie game Dizzy Ballers!</h4>
+<h3 align="center">I'm currently working on a player death location tracker API for randomly generated levels in the upcoming indie video game Dizzy Ballers!</h3>
 <p>
 <strong>Here are some of my favorite projects, all repos are public:</strong>
 <br>
