@@ -5,7 +5,7 @@ Stay awhile, and listen...</h1>
   
 <h3 align="center">I'm currently working on a player death location tracker API for randomly generated levels in the upcoming indie video game Dizzy Ballers!</h3>
 <p>
-<strong>Here are some of my favorite projects, all repos are public:</strong>
+## Here are some of my favorite projects, all repos are public:
 <br>
 <strong><a href="https://pcabezal.github.io/nasaPOD/">NASA Astronomy Photos of the Day</a></strong>: Slideshow which cycles through random photos of the day from the official NASA API.
 <br>
@@ -17,7 +17,7 @@ Stay awhile, and listen...</h1>
 
 
 ## Languages and Tools:
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,py,git,bash,cs,linux,vscode,powershell,dotnet,azure&theme=dark&perline=8" alt="language and tools"/></p>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,py,git,bash,cs,linux,vscode,powershell,dotnet,azure&theme=dark&perline=8" alt="language and tools"/></a></p>
 
 ## Stats:
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=pcabezal&show_icons=true&theme=tokyonight" alt="git stats"></p> 
