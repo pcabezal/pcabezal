@@ -1,11 +1,11 @@
-<h2 align="center">Welcome to my github!
+<h1 align="center">Welcome to my github!
 <br>
-Stay awhile, and listen...</h2>
+Stay awhile, and listen...</h1>
 <p>
   
-<h3>I'm currently working on a death location tracker API for randomly generated levels in the upcoming indie game Dizzy Ballers!</h3>
+<h4>I'm currently working on a death location tracker API for randomly generated levels in the upcoming indie game Dizzy Ballers!</h4>
 <p>
-<strong>Here are some of my favorite projects:</strong>
+<strong>Here are some of my favorite projects, all repos are public:</strong>
 <br>
 <strong><a href="https://pcabezal.github.io/nasaPOD/">NASA Astronomy Photos of the Day</a></strong>: Slideshow which cycles through random photos of the day from the official NASA API.
 <br>
@@ -22,5 +22,5 @@ Stay awhile, and listen...</h2>
 ## Stats:
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=pcabezal&show_icons=true&theme=tokyonight" alt="git stats"></p> 
   
-## Connect with me:
+##Connect with me:
 You can reach me on twitter <a href="https://twitter.com/paulcabezal">@paulcabezal</a> or find me on <a href="https://www.linkedin.com/in/paul-cabezal-218b5b235/">LinkedIn</a>!
