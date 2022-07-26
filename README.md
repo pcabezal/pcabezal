@@ -18,7 +18,7 @@ Stay awhile, and listen...</h1>
 
 
 ## Languages and Tools:
-<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,bash,cs,linux,vscode,powershell,dotnet,azure&theme=dark&perline=8" alt="language and tools"/></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,bash,adonis,linux,vscode,powershell,dotnet,azure&theme=dark&perline=8" alt="language and tools"/></p>
 
 ## Stats:
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=pcabezal&show_icons=true&theme=tokyonight" alt="git stats"></p> 
