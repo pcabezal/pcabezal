@@ -20,8 +20,6 @@ Stay awhile, and listen...</h1>
 ## Languages and Tools:
 <p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,bash,linux,vscode,powershell,dotnet,azure&theme=dark&perline=8" alt="language and tools"/></p>
 
-## Stats:
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=pcabezal&show_icons=true&theme=tokyonight" alt="git stats"></p> 
   
 ##Connect with me:
 You can reach me on twitter <a href="https://twitter.com/paulcabezal">@paulcabezal</a> or find me on <a href="https://www.linkedin.com/in/paul-cabezal-218b5b235/">LinkedIn</a>!
