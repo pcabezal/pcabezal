@@ -15,12 +15,8 @@ Stay awhile, and listen...</h1>
 <strong><a href="https://pcabezal.github.io/TOPcalculator/">Calculator</a></strong>: Utilizing this never before seen device you can use your computer to perform basic arithmetic operations!
 <p>
   
-
 ## Languages and Tools:
 <p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,bash,linux,vscode,powershell,dotnet,azure&theme=dark&perline=8" alt="language and tools"/></p>
 
-## Stats:
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=pcabezal&show_icons=true&theme=tokyonight" alt="git stats"></p> 
-
 ## Connect with me:
-You can reach me on twitter <a href="https://twitter.com/paulcabezal">@paulcabezal</a> or find me on <a href="https://www.linkedin.com/in/paul-cabezal-218b5b235/">LinkedIn</a>!
+You can email me <a href="mailto:paulcabezal@gmail.com>paulcabezal@gmail.com</a>, reach me on twitter <a href="https://twitter.com/paulcabezal">@paulcabezal</a>, or find me on <a href="https://www.linkedin.com/in/paul-cabezal-218b5b235/">LinkedIn</a>!
