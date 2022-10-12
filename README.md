@@ -19,4 +19,4 @@ Stay awhile, and listen...</h1>
 <p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,bash,linux,vscode,powershell,dotnet,azure&theme=dark&perline=8" alt="language and tools"/></p>
 
 ## Connect with me:
-You can email me <a href="mailto:paulcabezal@gmail.com>paulcabezal@gmail.com</a>, reach me on twitter <a href="https://twitter.com/paulcabezal">@paulcabezal</a>, or find me on <a href="https://www.linkedin.com/in/paul-cabezal-218b5b235/">LinkedIn</a>!
+You can email me <a href="mailto:paulcabezal@gmail.com">paulcabezal@gmail.com</a>, reach me on twitter <a href="https://twitter.com/paulcabezal">@paulcabezal</a>, or find me on <a href="https://www.linkedin.com/in/paul-cabezal-218b5b235/">LinkedIn</a>!
